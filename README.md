@@ -16,7 +16,7 @@ This website is designed for the classification of breast ultrasound scans. It u
 - High accuracy classification based on state-of-the-art deep learning models.
 
     
-![Screenshot 2024-05-03 232056](https://github.com/Meta-c/breast_cancer_classification_website/assets/89762132/0a9e158a-ced5-44c3-9492-7b1b7184cd40)
+![Screenshot 2024-05-03 232056](https://github.com/user-attachments/assets/d7363e54-f3f7-4aeb-9e44-4eca348cf913)
 
 ## Installation
 
