@@ -6,7 +6,7 @@ This repository contains the source code for the Breast Cancer Classification We
 
 This website is designed for the classification of breast ultrasound scans. It utilizes deep learning models for both detection and classification of ultrasound images.
 
-![Breast Cancer Classification Website Screenshot](https://github.com/Meta-c/breast_cancer_classification_website/assets/89762132/a7405b2e-9db8-4d20-934c-74be4a3f9872)
+![Breast Cancer Classification Website Screenshot](<img src="https://github.com/user-attachments/assets/989e428c-4f3f-4a4f-88be-e11fb7dd5850" />)
 
 ## Features
 
